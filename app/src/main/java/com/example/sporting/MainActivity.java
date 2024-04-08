@@ -61,18 +61,6 @@ public class MainActivity extends AppCompatActivity {
         });
 
 
-
-
-
-
-
-
-
-
-
-
-
-
         // 로그아웃 기능 실현
 
         Button btn_logout = findViewById(R.id.btn_logout_main);
